@@ -18,7 +18,7 @@ async function setupDiscordSdk() {
 document.querySelector('#app').innerHTML = `
   <div>
     // <img src="${rocketLogo}" class="logo" alt="Discord" />
-    <h1>Welcome to F1 Bleh!</h1>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/arIvsvDxrSE?si=4zyEBBAob78RXXfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h1>Welcome to F1 Bleh 1.1!</h1>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/andlVbJShko?si=DuoNHqdBh_aFUQ3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 `;
